@@ -5,6 +5,8 @@
 
 import { PageConfig, URLExt } from '@jupyterlab/coreutils';
 
+require('@jupyterlab/celltags');
+
 // Promise.allSettled polyfill, until our supported browsers implement it
 // See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled
 if (Promise.allSettled === undefined) {

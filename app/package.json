@@ -27,6 +27,7 @@
     "@jupyterlab-classic/ui-components": "^0.1.6",
     "@jupyterlab/apputils-extension": "^3.0.0",
     "@jupyterlab/codemirror-extension": "^3.0.0",
+    "@jupyterlab/celltags": "^3.0.0",
     "@jupyterlab/completer-extension": "^3.0.0",
     "@jupyterlab/coreutils": "~5.0.0",
     "@jupyterlab/docmanager-extension": "^3.0.0",
