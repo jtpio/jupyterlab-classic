@@ -3,3 +3,4 @@ c.ServerApp.token = ""
 c.ServerApp.password = ""
 c.ServerApp.disable_check_xsrf = True
 c.ServerApp.open_browser = False
+c.ClassicApp.open_browser = False
